@@ -834,7 +834,7 @@ transform: translate(-50%);
     (min-resolution: 192dpi),
     (-webkit-min-device-pixel-ratio: 2) {
     .section-main {
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Dark-bg-min-x1.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Dark-bg-min-x2.jpg);
     }
 }
 
